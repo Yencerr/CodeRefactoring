@@ -6,4 +6,4 @@ In CSS, condinced surtain classes together over comands to condince the amount o
 
 changed colors through the webpage to be more consistant.
 
-The hoped outcome was to possibly increase load speed by making the page have to make less comands when opening and to make code a little easier to follow and read over the page.
+The hoped outcome was to possibly increase load speed by making the page have to make less comands when opening. To also make code a little easier to follow and read over the page.
